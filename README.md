@@ -22,6 +22,23 @@ Login
 
 Register
 
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/cbb42080-321f-4435-ba9e-196119914c50)
+
+Home Page:
+
+This page contains:
+
+Basic introduction of the website
+
+An option to check reviews on a user
+
+All the product details which are posted by the users (Not by admin)
+
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/db47f12d-ad8a-4085-b1a7-105257f2f0cf)
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/0fe653b3-146a-4421-893a-653f36cfafde)
+
+
+
 
 
 
