@@ -5,13 +5,21 @@ This is the website logo:
 
 
 HOME PAGE:
+
 Home page contains 5 main options:
+
 Home
+
 FAQ’s
+
 About page
+
 Check out items in auction
+
 Search bar
+
 Login
+
 Register
 
 
