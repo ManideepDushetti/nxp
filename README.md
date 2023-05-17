@@ -1,42 +1,365 @@
-# nxp
-This is a website where a person can sell and buy second hand products
-This is the website logo:
-![image](https://github.com/ManideepDushetti/nxp/assets/117671718/66811bdc-9a07-4c16-beab-fd4ae4f573e6)
+# NXP
 
-![nxp_00002](https://github.com/ManideepDushetti/nxp/assets/117671718/8be67d25-4e97-4596-884f-0ae55372b4d8)
-![nxp_00003](https://github.com/ManideepDushetti/nxp/assets/117671718/df6dd7d2-4481-480a-a4f0-cb644e06b6dd)
-![nxp_00004](https://github.com/ManideepDushetti/nxp/assets/117671718/ebb6484a-98ca-44ea-ac7d-b21e117fd411)
-![nxp_00005](https://github.com/ManideepDushetti/nxp/assets/117671718/29e87f10-5efe-4ec2-91c9-08e3bb33ecb2)
-![nxp_00006](https://github.com/ManideepDushetti/nxp/assets/117671718/029c1e8d-29d5-4ec8-91cc-82c481391392)
-![nxp_00007](https://github.com/ManideepDushetti/nxp/assets/117671718/c0140ac3-2b81-4927-8dc1-91fc0066250f)
-![nxp_00008](https://github.com/ManideepDushetti/nxp/assets/117671718/7092d6d4-dfa7-4c0c-a3a6-f89ca8baef87)
-![nxp_00009](https://github.com/ManideepDushetti/nxp/assets/117671718/43d97b00-ef0f-44d7-9b0d-ea240fb18f93)
-![nxp_00010](https://github.com/ManideepDushetti/nxp/assets/117671718/863ead85-2701-4cad-98a2-5ff8858ce668)
-![nxp_00011](https://github.com/ManideepDushetti/nxp/assets/117671718/a9bb34e8-b0f8-4169-a799-4df80e74e880)
-![nxp_00012](https://github.com/ManideepDushetti/nxp/assets/117671718/65f50480-45b9-4fa7-868a-bef327861337)
-![nxp_00013](https://github.com/ManideepDushetti/nxp/assets/117671718/7d2a2251-9285-4629-b70c-ad923eb8e84d)
-![nxp_00014](https://github.com/ManideepDushetti/nxp/assets/117671718/336b46fe-fb23-4b31-b97c-a70f15d27fb1)
-![nxp_00015](https://github.com/ManideepDushetti/nxp/assets/117671718/1aeb0687-b8bc-4fff-9263-fb5a3364206f)
-![nxp_00016](https://github.com/ManideepDushetti/nxp/assets/117671718/38eeb6a2-611b-4821-8857-12d369d3fd53)
-![nxp_00017](https://github.com/ManideepDushetti/nxp/assets/117671718/edede24a-6ddf-4d25-ac54-624f79ca3bcd)
-![nxp_00018](https://github.com/ManideepDushetti/nxp/assets/117671718/a3290f67-8cb6-4682-a930-034b43f9f213)
-![nxp_00019](https://github.com/ManideepDushetti/nxp/assets/117671718/73f89c6c-fa74-4434-9687-f62ced227ec4)
-![nxp_00020](https://github.com/ManideepDushetti/nxp/assets/117671718/b96a9aae-9c92-4991-806e-cffff31cb429)
-![nxp_00021](https://github.com/ManideepDushetti/nxp/assets/117671718/36f4ec11-d660-4b2a-9205-3f64031b444c)
-![nxp_00022](https://github.com/ManideepDushetti/nxp/assets/117671718/30d30c86-b144-4bd3-9156-ef110ecaeef4)
-![nxp_00023](https://github.com/ManideepDushetti/nxp/assets/117671718/d41e66f8-f4d3-4bee-a6a7-72d30d2fae90)
-![nxp_00024](https://github.com/ManideepDushetti/nxp/assets/117671718/68e62ae5-1817-4687-b3d0-c5a3e585b996)
-![nxp_00025](https://github.com/ManideepDushetti/nxp/assets/117671718/8641e034-113b-4f0e-b7e8-e94b7bc46a56)
-![nxp_00026](https://github.com/ManideepDushetti/nxp/assets/117671718/441923f1-a8e9-4d9a-b107-b391f0909191)
-![nxp_00027](https://github.com/ManideepDushetti/nxp/assets/117671718/9b6f2902-f3b7-4116-af9d-54b39f8ef44f)
-![nxp_00028](https://github.com/ManideepDushetti/nxp/assets/117671718/7214e9fd-639e-46e9-ae51-c530dee7405d)
-![nxp_00029](https://github.com/ManideepDushetti/nxp/assets/117671718/750f7316-c5ae-4026-83dd-646e7f51c8a3)
-![nxp_00030](https://github.com/ManideepDushetti/nxp/assets/117671718/d59efd8d-d2e9-44e7-af98-2847e81ca135)
+### (nit X-Change platform)
+
+## (SECOND HAND BUYING AND SELLING PLATFORM)
+
+###### BATCH NUMBER- 26
+
+###### DUSHETTI MANIDEEP (421138)
+
+###### EMMADIVAMSHI VARDHAN (421139)
+
+###### SUPERVISOR
+
+###### B.S.S.MONICA
 
 
+## ABSTRACT
+
+#### In engineering, many instruments which are costly and of short-term
+
+#### use are wasted after their usage. So we need a steady platform between
+
+#### all the years and branches of NIT AP so that there will be no problems
+
+#### such as the wastage of money.
+
+#### On this platform, students can buy and sell anything from calcito
+
+#### apron with their juniors and seniors for low prices than MRP which will
+
+#### be profitable for both, and juniors will be happy to buy instruments that
+
+#### are of good quality and can be bought cheaper than a new one.
 
 
+## INTRODUCTION
+
+#### College life is an exciting time, full of new experiences and opportunities. For
+
+#### many students, it is also a time when they need to be mindful of their
+
+#### spending and make the most of their resources. One way to save money
+
+#### while still getting the things you need is by using a second-hand buying and
+
+#### selling platform. These platforms provide a convenient and affordable way to
+
+#### buy and sell pre-owned items, making it easier for students to manage their
+
+#### finances.
+
+#### This website helps students to save money, reduce waste, and access a
+
+#### wide range of items at affordable prices. The website creates a platform
+
+#### where anyone can create an account to buy and sell a product and also bid in
+
+#### an auction where an active auction is available.
 
 
+## PROBLEM STATEMENT
+
+#### College students often face financial constraints and are
+
+#### increasingly concerned about environmental sustainability. However,
+
+#### there is a lack of convenient and reliable second-hand buying and
+
+#### selling platforms specifically tailored to the needs of college students.
+
+#### This project aims to develop a user-friendly and secure platform that
+
+#### facilitates the exchange of second-hand goods among college
+
+#### students, providing an affordable and sustainable alternative to
+
+#### traditional consumption patterns.
+
+
+## TECHNOLOGIES USED
+
+#####  LANGUAGES USED : HTML,CSS
+
+######  FRAME WORKS USED : PHP
+
+######  DATA BASES USED : MYSQL
+
+
+## HOME PAGE
+
+```
+ Home page contains 5 main options:
+ Home
+ FAQ’s
+ About page
+ Check out items in auction
+ Search bar
+ Login
+ Register
+```
+
+## HOME
+
+ This page contains:
+ Basic introduction of the website
+ An option to check reviews on a user
+ All the product details which are posted by
+the users (Not by admin)
+
+
+## FAQS
+
+ This page contains basic questions and answers about the website
+ Like fullformof NXP
+ How to sell and buy a
+Product?
+ Their data security,etc.,
+
+
+## ABOUT
+
+```
+ This page contains the detailed information and purpose of NXP
+ Like the information about NXP
+ Our contact details
+ Git and linkedinaccounts,etc.,
+```
+
+## Check out items in auction
+
+```
+This page is designed for displaying all the
+items which are currently in auction. On this
+page image, product name, product id, the
+name of the user who posted the item,
+starting bid,highest bid, and description of
+the product.
+```
+
+## Search
+
+In this section, we can search all the products just
+by typing the product name, then all the items whose
+product names are matching from both auctions and
+normal products will be displayed. Now we also have
+filters to display the items from high price to low or
+vice versa.
+
+
+## Register
+
+```
+ This option takes us to a page where we can register to create an
+account in NXP website
+ This has two portals
+ Normal user’s registration site
+ This site can be accessed by any person who wanted to be an user in NXP by
+simply giving a new username , an email ID and a password
+ Admins registration site
+ This site is for only admins , in this page we can create a new account for an
+admin
+```
+
+## User sign-up Page
+
+```
+ In this page any person who wanted
+to be a user of NXP can create an
+account just by creating a username
+and an email-ID and by setting a
+password.
+```
+
+## Admin Sign-up Page
+
+```
+ In this page only people who have
+access to a pin can create an admin
+account which will give access to all
+the database of the users and their
+products.
+```
+
+## Log-in
+
+```
+ There are 2 types of login pages
+ One is for admins only
+ The other one is for users
+```
+```
+ This page is automatically popped up after
+registration
+ Or else if a person already have an account
+he can access it from homepage.
+```
+
+## Login-Admin
+
+```
+ After creating an account for admin which is secured by a pin code
+admin page have 4 options
+ Home
+ Logout
+ For Admin page
+```
+
+## Admin-page
+
+```
+ In admin page we will have access to all the databases and tables.
+ In NXP website there are 5 main tables namely:
+ Bidding
+ Deleted_products
+ Product_upload
+ review
+ User_form
+```
+
+ Bidding
+
+ Deleted products
+
+ Product upload
+
+
+ Reviews
+
+ User forms
+
+
+## User-Page
+
+ This page contains 9 parts
+ Home
+ About
+ FAQ’s
+ logout
+ My Products
+ Place An Auction
+ Buy A Product From An Auction
+ Give A User Review
+ sell a product
+
+
+## My Productions
+
+ On this page an user can check out all his products which
+are available to selling in the main page.
+ This page also contains other 5 options
+ An item is sold
+ Delete a product
+ User-Page
+ Previous Products
+ Past Bidding Details
+
+
+## An item is sold
+
+```
+ This option helps user to remove the
+items which are already sold from the
+main website.
+ But it will be stored in our database and
+will be displayed in user history which only
+he can access.
+```
+
+## Delete A Product
+
+```
+ This page can be used by the user
+when he needs to remove a product
+permanently from the database.
+ It is mainly used when users give wrong
+data of the product.
+```
+
+## Previous Products
+
+```
+ In this page an user can access
+All his history which means all his
+previous products.
+ This page is the further application
+When a user removes an item.
+```
+
+## Past Bidding Details
+
+```
+ Here user can check all his previous auctions.
+ All the auctions by users are stored in the
+database.
+ But after the deadline for the auction is
+completed it will no longer be displayed on the
+home page
+ They can be accessed by the user in this page
+```
+
+## Place An Auction
+
+```
+ In this page a user can place an auction
+ Here some basic information is needed
+To place an auction like:
+ Product Name
+ Image
+ Product Description
+ Starting Bid
+ Auction End Date
+```
+
+## Buy A Product From An Auction
+
+```
+ In this page a user can bid on items
+which are already in an auction.
+ User just need two parts of information
+of a product to bid:
+ Product ID
+ Bid Amount
+```
+
+## Give a User Review
+
+```
+ In this page a user can give a review
+on others which will be helpful to others
+ All this data can be accessed by
+other users in main page.
+ Here only two details required:
+ User id
+ Review
+```
+
+## Sell a product
+
+ After we Scroll down in users page we can see that the
+lower portion of this page contains a form which is used
+to upload any products in NXP website by users. They
+only need to submit basic information like
+ product name
+ image
+ price
+ description about the product
+
+
+## Conclusion
+
+```
+ Finally, We included some features in this website. The findings of
+this study suggest that social media is an effective way of
+engaging with alumni and maintaining a strong relationship with
+them. Therefore, second hand buying and selling platform is very
+economically friendly.
+```
+```
+ Furthermore, future research could explore the various
+functionalities like payments, spreading this application across
+other institutions, Partnership with Local Businesses etc.,
+```
 
 
