@@ -4,79 +4,6 @@
 
 ## (SECOND HAND BUYING AND SELLING PLATFORM)
 
-###### BATCH NUMBER- 26
-
-###### DUSHETTI MANIDEEP (421138)
-
-###### EMMADIVAMSHI VARDHAN (421139)
-
-###### SUPERVISOR
-
-###### B.S.S.MONICA
-
-
-## ABSTRACT
-
-#### In engineering, many instruments which are costly and of short-term
-
-#### use are wasted after their usage. So we need a steady platform between
-
-#### all the years and branches of NIT AP so that there will be no problems
-
-#### such as the wastage of money.
-
-#### On this platform, students can buy and sell anything from calcito
-
-#### apron with their juniors and seniors for low prices than MRP which will
-
-#### be profitable for both, and juniors will be happy to buy instruments that
-
-#### are of good quality and can be bought cheaper than a new one.
-
-
-## INTRODUCTION
-
-#### College life is an exciting time, full of new experiences and opportunities. For
-
-#### many students, it is also a time when they need to be mindful of their
-
-#### spending and make the most of their resources. One way to save money
-
-#### while still getting the things you need is by using a second-hand buying and
-
-#### selling platform. These platforms provide a convenient and affordable way to
-
-#### buy and sell pre-owned items, making it easier for students to manage their
-
-#### finances.
-
-#### This website helps students to save money, reduce waste, and access a
-
-#### wide range of items at affordable prices. The website creates a platform
-
-#### where anyone can create an account to buy and sell a product and also bid in
-
-#### an auction where an active auction is available.
-
-
-## PROBLEM STATEMENT
-
-#### College students often face financial constraints and are
-
-#### increasingly concerned about environmental sustainability. However,
-
-#### there is a lack of convenient and reliable second-hand buying and
-
-#### selling platforms specifically tailored to the needs of college students.
-
-#### This project aims to develop a user-friendly and secure platform that
-
-#### facilitates the exchange of second-hand goods among college
-
-#### students, providing an affordable and sustainable alternative to
-
-#### traditional consumption patterns.
-
 
 ## TECHNOLOGIES USED
 
@@ -99,6 +26,8 @@
  Login
  Register
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/f21f7264-0ce9-47e3-b32e-40600c839f72)
+
 
 ## HOME
 
@@ -107,6 +36,9 @@
  An option to check reviews on a user
  All the product details which are posted by
 the users (Not by admin)
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/9a36e901-4018-4079-98bc-30f7cb8a4be7)
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/6a666a0c-adde-42dc-b55c-eae9ab0b7444)
+
 
 
 ## FAQS
@@ -116,6 +48,8 @@ the users (Not by admin)
  How to sell and buy a
 Product?
  Their data security,etc.,
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/59347cb2-8571-4e09-9c95-1f9e2ba73a02)
+
 
 
 ## ABOUT
@@ -126,6 +60,9 @@ Product?
  Our contact details
  Git and linkedinaccounts,etc.,
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/a364e6f8-bd24-4fc2-9ec8-b27a1debd1e8)
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/21ce6add-340d-4bd8-8943-6e645f79d177)
+
 
 ## Check out items in auction
 
@@ -137,6 +74,8 @@ name of the user who posted the item,
 starting bid,highest bid, and description of
 the product.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/4021daa3-2df9-46ea-a883-0d2862248bc1)
+
 
 ## Search
 
@@ -146,6 +85,9 @@ product names are matching from both auctions and
 normal products will be displayed. Now we also have
 filters to display the items from high price to low or
 vice versa.
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/0fee8b54-ff4d-4c33-981c-adb778745eec)
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/bfea0648-42b5-4fc8-8d64-91ece251d535)
+
 
 
 ## Register
@@ -171,6 +113,8 @@ account just by creating a username
 and an email-ID and by setting a
 password.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/a2fcf128-17cc-4488-95d3-2d9afdf2bf44)
+
 
 ## Admin Sign-up Page
 
@@ -181,6 +125,8 @@ account which will give access to all
 the database of the users and their
 products.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/fd10b195-91df-4fb3-b0e8-39ed79f61ec8)
+
 
 ## Log-in
 
@@ -195,6 +141,8 @@ registration
  Or else if a person already have an account
 he can access it from homepage.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/40f396ed-3edd-428e-8855-8d52a7e904fa)
+
 
 ## Login-Admin
 
@@ -205,6 +153,8 @@ admin page have 4 options
  Logout
  For Admin page
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/642caa19-20cd-47c0-9552-9787f6045c29)
+
 
 ## Admin-page
 
@@ -217,17 +167,24 @@ admin page have 4 options
  review
  User_form
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/33f59f28-94d6-4a28-8f8d-c8e67b4e1882)
+
 
  Bidding
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/feb590c3-beee-4d7a-be93-e5f66044fc5a)
 
  Deleted products
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/5df29e8c-f559-4436-9ccb-39078b3fa74b)
 
  Product upload
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/15b4018d-aa72-4433-ba64-f34df8a98df4)
 
 
  Reviews
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/076b6b56-f70b-4a69-bae4-9e60a6c30cfd)
 
  User forms
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/a4630bf3-c283-445d-9b24-dab1a29f3779)
 
 
 ## User-Page
@@ -242,6 +199,7 @@ admin page have 4 options
  Buy A Product From An Auction
  Give A User Review
  sell a product
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/f2695d1f-35af-480b-9578-057699758298)
 
 
 ## My Productions
@@ -254,6 +212,9 @@ are available to selling in the main page.
  User-Page
  Previous Products
  Past Bidding Details
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/0c255139-c887-4f60-89bb-e73bfad5f19b)
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/d22e2219-ddf6-41d7-8b3d-a86cec779b4e)
+
 
 
 ## An item is sold
@@ -266,6 +227,8 @@ main website.
 will be displayed in user history which only
 he can access.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/7604dc6a-9bba-45f7-ae83-0c6d0b061d4e)
+
 
 ## Delete A Product
 
@@ -276,6 +239,8 @@ permanently from the database.
  It is mainly used when users give wrong
 data of the product.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/0436199f-ed65-4c61-917e-6265466e8598)
+
 
 ## Previous Products
 
@@ -286,6 +251,8 @@ previous products.
  This page is the further application
 When a user removes an item.
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/3ae8760d-9370-4a40-9d66-2861883a034f)
+
 
 ## Past Bidding Details
 
@@ -298,6 +265,8 @@ completed it will no longer be displayed on the
 home page
  They can be accessed by the user in this page
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/c1a62304-2f32-4d0f-bba3-fd70ed61f310)
+
 
 ## Place An Auction
 
@@ -311,6 +280,8 @@ To place an auction like:
  Starting Bid
  Auction End Date
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/f5f32ac3-83be-49b2-a525-775861ad990b)
+
 
 ## Buy A Product From An Auction
 
@@ -322,6 +293,8 @@ of a product to bid:
  Product ID
  Bid Amount
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/5bef76bc-8988-448b-8139-002a3ecb69f1)
+
 
 ## Give a User Review
 
@@ -334,6 +307,8 @@ other users in main page.
  User id
  Review
 ```
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/7ad7b915-a57e-4bea-ad24-e6bde5845541)
+
 
 ## Sell a product
 
@@ -345,6 +320,7 @@ only need to submit basic information like
  image
  price
  description about the product
+![image](https://github.com/ManideepDushetti/nxp/assets/117671718/b5262ecd-0f95-48ee-8009-070787693403)
 
 
 ## Conclusion
