@@ -16,7 +16,9 @@
 
 To access this website you should be able to download Xampp software from : https://www.apachefriends.org/download.html
 
-Then run PHP and MySQL as follows:<img width="497" alt="image" src="https://github.com/ManideepDushetti/nxp/assets/117671718/38dda582-ef4b-46d5-b166-4e629733439f">
+Then run PHP and MySQL as follows:
+
+<img width="497" alt="image" src="https://github.com/ManideepDushetti/nxp/assets/117671718/38dda582-ef4b-46d5-b166-4e629733439f">
 
 
 
@@ -72,7 +74,7 @@ Product?
 
 ## ABOUT
 
-```
+
  This page contains the detailed information and purpose of NXP
  
  Like the information about NXP
@@ -80,7 +82,7 @@ Product?
  Our contact details
  
  Git and linkedinaccounts,etc.,
-```
+
 ![image](https://github.com/ManideepDushetti/nxp/assets/117671718/a364e6f8-bd24-4fc2-9ec8-b27a1debd1e8)
 ![image](https://github.com/ManideepDushetti/nxp/assets/117671718/21ce6add-340d-4bd8-8943-6e645f79d177)
 
@@ -406,6 +408,7 @@ only need to submit basic information like
  price
 
  description about the product
+ 
 ![image](https://github.com/ManideepDushetti/nxp/assets/117671718/b5262ecd-0f95-48ee-8009-070787693403)
 
 
