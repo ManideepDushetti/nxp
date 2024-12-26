@@ -1,3 +1,6 @@
+Here is the updated `.md` code with centered images and a maximum width of 600px:
+
+```markdown
 # NXP Project
 
 Welcome to the NXP Project repository, an innovative platform for facilitating second-hand buying and selling. This repository is a part of the NXP (nit X-Change Platform) initiative.
@@ -213,3 +216,4 @@ The NXP platform revolutionizes second-hand buying and selling with its user-fri
 ## Contact
 
 For inquiries, reach out to [Manideep Dushetti](mailto:manideepdushettigoud@gmail.com).
+```
