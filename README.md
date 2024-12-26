@@ -94,7 +94,9 @@ The homepage offers easy navigation with links to:
 - Search Bar
 - Login/Register
 
-![Homepage](https://github.com/ManideepDushetti/nxp/assets/117671718/f21f7264-0ce9-47e3-b32e-40600c839f72)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/f21f7264-0ce9-47e3-b32e-40600c839f72" alt="Homepage" style="max-width: 600px;">
+</p>
 
 ### FAQ Section
 
@@ -102,32 +104,42 @@ Answers to common questions like:
 - How to buy/sell?
 - Data security policies.
 
-![FAQ](https://github.com/ManideepDushetti/nxp/assets/117671718/59347cb2-8571-4e09-9c95-1f9e2ba73a02)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/59347cb2-8571-4e09-9c95-1f9e2ba73a02" alt="FAQ" style="max-width: 600px;">
+</p>
 
 ### About Us
 
 Detailed information about NXP’s mission, contact details, and social links.
 
-![About](https://github.com/ManideepDushetti/nxp/assets/117671718/a364e6f8-bd24-4fc2-9ec8-b27a1debd1e8)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/a364e6f8-bd24-4fc2-9ec8-b27a1debd1e8" alt="About" style="max-width: 600px;">
+</p>
 
 ### Auction Listings
 
 Displays all active auctions with details like product name, ID, starting bid, highest bid, and description.
 
-![Auction](https://github.com/ManideepDushetti/nxp/assets/117671718/4021daa3-2df9-46ea-a883-0d2862248bc1)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/4021daa3-2df9-46ea-a883-0d2862248bc1" alt="Auction" style="max-width: 600px;">
+</p>
 
 ### Search Functionality
 
 Search products using keywords and apply filters for sorting by price or relevance.
 
-![Search](https://github.com/ManideepDushetti/nxp/assets/117671718/0fee8b54-ff4d-4c33-981c-adb778745eec)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/0fee8b54-ff4d-4c33-981c-adb778745eec" alt="Search" style="max-width: 600px;">
+</p>
 
 ### User Registration
 
 - **User Sign-Up:** Create an account with username, email, and password.
 - **Admin Sign-Up:** Requires a secure pin for admin access.
 
-![User Registration](https://github.com/ManideepDushetti/nxp/assets/117671718/a2fcf128-17cc-4488-95d3-2d9afdf2bf44)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/a2fcf128-17cc-4488-95d3-2d9afdf2bf44" alt="User Registration" style="max-width: 600px;">
+</p>
 
 ### Admin Panel
 
@@ -136,7 +148,9 @@ Admins have full access to:
 - Auctions
 - Product Listings
 
-![Admin Panel](https://github.com/ManideepDushetti/nxp/assets/117671718/33f59f28-94d6-4a28-8f8d-c8e67b4e1882)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/33f59f28-94d6-4a28-8f8d-c8e67b4e1882" alt="Admin Panel" style="max-width: 600px;">
+</p>
 
 ### User Dashboard
 
@@ -145,7 +159,9 @@ Users can:
 - Place auctions
 - Review purchase history
 
-![Dashboard](https://github.com/ManideepDushetti/nxp/assets/117671718/f2695d1f-35af-480b-9578-057699758298)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/f2695d1f-35af-480b-9578-057699758298" alt="Dashboard" style="max-width: 600px;">
+</p>
 
 ### Product Management
 
@@ -154,19 +170,25 @@ Users can:
 - Delete products
 - View past listings
 
-![Product Management](https://github.com/ManideepDushetti/nxp/assets/117671718/7604dc6a-9bba-45f7-ae83-0c6d0b061d4e)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/7604dc6a-9bba-45f7-ae83-0c6d0b061d4e" alt="Product Management" style="max-width: 600px;">
+</p>
 
 ### Auction Participation
 
 Users can bid on active auctions with product ID and bid amount.
 
-![Auction Bid](https://github.com/ManideepDushetti/nxp/assets/117671718/5bef76bc-8988-448b-8139-002a3ecb69f1)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/5bef76bc-8988-448b-8139-002a3ecb69f1" alt="Auction Bid" style="max-width: 600px;">
+</p>
 
 ### User Reviews
 
 Users can leave reviews to help others assess sellers or buyers.
 
-![Reviews](https://github.com/ManideepDushetti/nxp/assets/117671718/7ad7b915-a57e-4bea-ad24-e6bde5845541)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/7ad7b915-a57e-4bea-ad24-e6bde5845541" alt="Reviews" style="max-width: 600px;">
+</p>
 
 ### Product Uploads
 
@@ -176,7 +198,9 @@ Upload products with:
 - Description
 - Price
 
-![Upload](https://github.com/ManideepDushetti/nxp/assets/117671718/b5262ecd-0f95-48ee-8009-070787693403)
+<p align="center">
+  <img src="https://github.com/ManideepDushetti/nxp/assets/117671718/b5262ecd-0f95-48ee-8009-070787693403" alt="Upload" style="max-width: 600px;">
+</p>
 
 ---
 
